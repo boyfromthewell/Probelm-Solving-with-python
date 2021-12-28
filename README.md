@@ -1,2 +1,2 @@
 # Probelm-Solving-with-python
-코테 준비
+열심히 하자
